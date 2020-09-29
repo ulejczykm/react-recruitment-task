@@ -1,6 +1,6 @@
 import React from 'react'
-import RenderPhotos from './renderPhotos'
-import NextButton from './nextButton'
+import RenderPhotos from '../renderPhotos/renderPhotos'
+import NextButton from '../button/nextButton'
 import './sliderView.css'
 import Axios from 'axios'
 

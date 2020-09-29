@@ -1,6 +1,6 @@
 import React from 'react'
 import './renderPhotos.css'
-import './buttons.css'
+import '../button/buttons.css'
 
 const renderPhoto = props => {
     return (<li className="photo">

@@ -1,5 +1,5 @@
 import React from 'react';
-import SliderView from './components/sliderView'
+import SliderView from './components/sliderView/sliderView'
 /* import logo from './logo.svg';
  */import './App.css';
 
