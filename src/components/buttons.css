@@ -1,0 +1,2 @@
+#buttonWrapper{height:10%;width:100%;text-align:center}button{border:0px;width:200px;height:50px;color:white;font-size:26px;font-weight:bold;border-radius:50px;background-size:1px 170px;background-image:linear-gradient(0deg, #6654f1 0%, #69eacb 100%);display:inline-block;cursor:pointer;text-decoration:none;transition:all 0.1s;outline:none}button:active{position:relative;background-position:0px -15px;top:1px;-webkit-tap-highlight-color:transparent}@media (min-width: 0px) and (max-width: 1024px){#buttonWrapper button{margin-top:2%}}
+/*# sourceMappingURL=buttons.css.map */
